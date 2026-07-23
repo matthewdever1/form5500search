@@ -2,6 +2,17 @@
 
 **Live at [form5500search.com](https://form5500search.com)**
 
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?logo=duckdb&logoColor=black)
+![Apache Parquet](https://img.shields.io/badge/Apache_Parquet-50ABF1)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?logo=stripe&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?logo=railway&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
+
 A free search engine over ~2.9 million U.S. Department of Labor Form 5500 filings — the annual reports every employee benefit plan (401(k), pension, welfare) files under ERISA. Built for financial advisors prospecting retirement plans.
 
 ![Form 5500 Search homepage](screenshot.png)
